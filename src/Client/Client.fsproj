@@ -12,7 +12,7 @@
         <Compile Include="App.fs" />
     </ItemGroup>
     <ItemGroup>
-      <PackageReference Include="FsSpreadsheet.Fable" Version="1.1.9" />
+      <PackageReference Include="FsSpreadsheet.Fable" Version="1.2.0" />
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\Shared\Shared.fsproj" />
